@@ -1,0 +1,6 @@
+C:\Users\Neo\source\repos\CS_Task6\CS_Task6_Coder\bin\Debug\CS_Task6_Coder.exe.config
+C:\Users\Neo\source\repos\CS_Task6\CS_Task6_Coder\bin\Debug\CS_Task6_Coder.exe
+C:\Users\Neo\source\repos\CS_Task6\CS_Task6_Coder\bin\Debug\CS_Task6_Coder.pdb
+C:\Users\Neo\source\repos\CS_Task6\CS_Task6_Coder\obj\Debug\CS_Task6_Coder.csproj.CoreCompileInputs.cache
+C:\Users\Neo\source\repos\CS_Task6\CS_Task6_Coder\obj\Debug\CS_Task6_Coder.exe
+C:\Users\Neo\source\repos\CS_Task6\CS_Task6_Coder\obj\Debug\CS_Task6_Coder.pdb

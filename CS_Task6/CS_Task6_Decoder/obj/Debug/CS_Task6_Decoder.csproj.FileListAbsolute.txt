@@ -1,0 +1,7 @@
+C:\Users\Neo\source\repos\CS_Task6\CS_Task6_Decoder\bin\Debug\CS_Task6_Decoder.exe.config
+C:\Users\Neo\source\repos\CS_Task6\CS_Task6_Decoder\bin\Debug\CS_Task6_Decoder.exe
+C:\Users\Neo\source\repos\CS_Task6\CS_Task6_Decoder\bin\Debug\CS_Task6_Decoder.pdb
+C:\Users\Neo\source\repos\CS_Task6\CS_Task6_Decoder\obj\Debug\CS_Task6_Decoder.csproj.CoreCompileInputs.cache
+C:\Users\Neo\source\repos\CS_Task6\CS_Task6_Decoder\obj\Debug\CS_Task6_Decoder.exe
+C:\Users\Neo\source\repos\CS_Task6\CS_Task6_Decoder\obj\Debug\CS_Task6_Decoder.pdb
+C:\Users\Neo\source\repos\CS_Task6\CS_Task6_Decoder\obj\Debug\CS_Task6_Decoder.csprojAssemblyReference.cache
