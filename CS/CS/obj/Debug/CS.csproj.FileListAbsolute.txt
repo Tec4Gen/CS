@@ -1,7 +1,0 @@
-C:\Users\Neo\source\repos\CS\CS\bin\Debug\CS.exe.config
-C:\Users\Neo\source\repos\CS\CS\bin\Debug\CS.exe
-C:\Users\Neo\source\repos\CS\CS\bin\Debug\CS.pdb
-C:\Users\Neo\source\repos\CS\CS\obj\Debug\CS.csprojAssemblyReference.cache
-C:\Users\Neo\source\repos\CS\CS\obj\Debug\CS.csproj.CoreCompileInputs.cache
-C:\Users\Neo\source\repos\CS\CS\obj\Debug\CS.exe
-C:\Users\Neo\source\repos\CS\CS\obj\Debug\CS.pdb

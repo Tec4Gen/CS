@@ -1,0 +1,10 @@
+C:\Users\Neo\source\repos\Authomaton\Authomaton\bin\Debug\Authomaton.exe.config
+C:\Users\Neo\source\repos\Authomaton\Authomaton\bin\Debug\Authomaton.exe
+C:\Users\Neo\source\repos\Authomaton\Authomaton\bin\Debug\Authomaton.pdb
+C:\Users\Neo\source\repos\Authomaton\Authomaton\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Neo\source\repos\Authomaton\Authomaton\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Neo\source\repos\Authomaton\Authomaton\obj\Debug\Authomaton.csprojAssemblyReference.cache
+C:\Users\Neo\source\repos\Authomaton\Authomaton\obj\Debug\Authomaton.csproj.CoreCompileInputs.cache
+C:\Users\Neo\source\repos\Authomaton\Authomaton\obj\Debug\Authomaton.csproj.CopyComplete
+C:\Users\Neo\source\repos\Authomaton\Authomaton\obj\Debug\Authomaton.exe
+C:\Users\Neo\source\repos\Authomaton\Authomaton\obj\Debug\Authomaton.pdb

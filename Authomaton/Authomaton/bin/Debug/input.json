@@ -1,0 +1,32 @@
+{
+	"Alphabet": ["0", "1"],
+	"States": ["S1", "S2", "S3", "S4"],
+	"Transitions": [
+    {
+		"StartState": "S1",
+		"EndState": "S2",
+		"Condition": "0"
+	}, 
+    {
+		"StartState": "S1",
+		"EndState": "S3",
+		"Condition": "1"
+	}, 
+    {
+		"StartState": "S2",
+		"EndState": "S4",
+		"Condition": "1"
+	}, 
+    {
+		"StartState": "S3",
+		"EndState": "S3",
+		"Condition": "1"
+	}, 
+    {
+		"StartState": "S3",
+		"EndState": "S4",
+		"Condition": "0"
+	}],
+	"BeginState": "S1",
+	"FinalState": "S4"
+}
