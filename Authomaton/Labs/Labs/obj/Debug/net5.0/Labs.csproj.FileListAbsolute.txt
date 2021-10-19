@@ -1,0 +1,16 @@
+D:\MyGit\CS\Authomaton\Labs\Labs\bin\Debug\net5.0\Labs.exe
+D:\MyGit\CS\Authomaton\Labs\Labs\bin\Debug\net5.0\Labs.deps.json
+D:\MyGit\CS\Authomaton\Labs\Labs\bin\Debug\net5.0\Labs.runtimeconfig.json
+D:\MyGit\CS\Authomaton\Labs\Labs\bin\Debug\net5.0\Labs.runtimeconfig.dev.json
+D:\MyGit\CS\Authomaton\Labs\Labs\bin\Debug\net5.0\Labs.dll
+D:\MyGit\CS\Authomaton\Labs\Labs\bin\Debug\net5.0\ref\Labs.dll
+D:\MyGit\CS\Authomaton\Labs\Labs\bin\Debug\net5.0\Labs.pdb
+D:\MyGit\CS\Authomaton\Labs\Labs\obj\Debug\net5.0\Labs.csproj.AssemblyReference.cache
+D:\MyGit\CS\Authomaton\Labs\Labs\obj\Debug\net5.0\Labs.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGit\CS\Authomaton\Labs\Labs\obj\Debug\net5.0\Labs.AssemblyInfoInputs.cache
+D:\MyGit\CS\Authomaton\Labs\Labs\obj\Debug\net5.0\Labs.AssemblyInfo.cs
+D:\MyGit\CS\Authomaton\Labs\Labs\obj\Debug\net5.0\Labs.csproj.CoreCompileInputs.cache
+D:\MyGit\CS\Authomaton\Labs\Labs\obj\Debug\net5.0\Labs.dll
+D:\MyGit\CS\Authomaton\Labs\Labs\obj\Debug\net5.0\ref\Labs.dll
+D:\MyGit\CS\Authomaton\Labs\Labs\obj\Debug\net5.0\Labs.pdb
+D:\MyGit\CS\Authomaton\Labs\Labs\obj\Debug\net5.0\Labs.genruntimeconfig.cache

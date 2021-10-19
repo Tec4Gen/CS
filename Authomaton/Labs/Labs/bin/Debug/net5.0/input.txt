@@ -1,0 +1,7 @@
+if 10 > 5 then
+a = 5
+elseif 15 <> 15 then
+a = 10
+else
+a = 20
+end
